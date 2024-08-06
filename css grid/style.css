@@ -8,6 +8,6 @@
 .gallery img{
     height: 100%;
     width: 100%;
-    border: 10px solid red;
+    border: 10px solid white;
     box-shadow: rgb(63, 54, 54);
 }
